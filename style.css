@@ -3,12 +3,12 @@
   .text-container {
     display: inline-flex;
     flex-direction: column;
-    height: 2.5rem;
+    height: 2rem;
     overflow: hidden;
   }
   
   .text-container span {
-    height: 2.3rem;
+    height: 2rem;
     color: lightcoral;
     animation: moveUp 10s linear infinite;
   }
